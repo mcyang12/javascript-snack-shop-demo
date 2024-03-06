@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif; /* Change font to Arial */
+    background-color: #ffe8e8; /* Light pink background */
+    margin: 0;
+    padding: 0;
+  }
+  
+  #snack-shop {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fffae8; /* Light yellow background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow effect */
+    text-align: center;
+  }
+  
+  h1 {
+    color: #f47d7d; /* Light red heading */
+  }
+  
+  .snack-image {
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+    height: auto;
+    border: 3px solid #f47d7d;
+    border-radius: 50px;
+  }
+  
+  ul {
+    list-style-type: none; /* Remove bullet points from list */
+    padding: 0; /* Remove default padding */
+  }
+  
+  li {
+    margin-bottom: 15px; /* Add more spacing between list items */
+    background-color: #fff; /* White background */
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px 20px; /* Padding inside each item */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow effect */
+  }
+  
